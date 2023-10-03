@@ -1,4 +1,4 @@
-#Formulario 
+# Formulario 
 
 ## Descripción
 Este es un formulario de validación desarrollado en HTML y JavaScript con CSS, que permite a los usuarios ingresar información personal y validarla en tiempo real.
@@ -7,6 +7,7 @@ Este es un formulario de validación desarrollado en HTML y JavaScript con CSS, 
 ![image](https://github.com/KevinMMF23/Practica2Unidad3/assets/105268123/ece6bbc2-5434-4531-a897-7b024a36a15d)
 
 ## Código de Ejemplo
+A continuación, proporciono el una parte del código de mi página web, sonde se definió el estilo para la pagina.
 ```bash
 /* Estilos generales */
 body {
